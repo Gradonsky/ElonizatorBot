@@ -1,0 +1,8 @@
+tweepy
+art
+py3cw
+flashtext
+urllib3
+python-telegram-bot
+uptime
+
