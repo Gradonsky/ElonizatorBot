@@ -32,4 +32,4 @@ Just build the docker image with the Dockerfile which is included in the Repo.
 
 
 _If you have any problems with 3Commas just hit me up on Instagram :)
-Made with ❤️ for Crypto._
+Made with @Dedzer && ❤️ for Crypto._
